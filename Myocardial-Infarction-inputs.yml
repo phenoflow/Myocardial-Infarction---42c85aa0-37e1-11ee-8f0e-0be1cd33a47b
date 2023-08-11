@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/myocardial-infarction---primary.py
+inputModule3:
+  class: File
+  path: python/acute-myocardial-infarction---primary.py
+inputModule4:
+  class: File
+  path: python/myocardial-infarction-heart---primary.py
+inputModule5:
+  class: File
+  path: python/coronary-myocardial-infarction---primary.py
+inputModule6:
+  class: File
+  path: python/myocardial-infarction-ruptur---primary.py
+inputModule7:
+  class: File
+  path: python/silent-myocardial-infarction---primary.py
+inputModule8:
+  class: File
+  path: python/myocardial-infarction-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/septal-myocardial-infarction---primary.py
+inputModule10:
+  class: File
+  path: python/myocardial-infarction-anterior---primary.py
+inputModule11:
+  class: File
+  path: python/myocardial-infarction-posterior---primary.py
+inputModule12:
+  class: File
+  path: python/subendocardial-myocardial-infarction---primary.py
+inputModule13:
+  class: File
+  path: python/myocardial-infarction-elevation---primary.py
+inputModule14:
+  class: File
+  path: python/myocardial-infarction-inferior---primary.py
+inputModule15:
+  class: File
+  path: python/myocardial-infarction-unspecif---primary.py
+inputModule16:
+  class: File
+  path: python/other-myocardial-infarction---primary.py
+inputModule17:
+  class: File
+  path: python/atrial-myocardial-infarction---primary.py
+inputModule18:
+  class: File
+  path: python/myocardial-infarction-muscle---primary.py
+inputModule19:
+  class: File
+  path: python/myocardial-infarction-postmi---primary.py
+inputModule20:
+  class: File
+  path: python/old-myocardial-infarction---primary.py
+inputModule21:
+  class: File
+  path: python/myocardial-infarction-healed---primary.py
+inputModule22:
+  class: File
+  path: python/subsequent-myocardial-infarction---primary.py
+inputModule23:
+  class: File
+  path: python/myocardial-infarction-folow---primary.py
+inputModule24:
+  class: File
+  path: python/myocardial-infarction-defect---primary.py
+inputModule25:
+  class: File
+  path: python/myocardial-infarction-complication---primary.py
+inputModule26:
+  class: File
+  path: python/myocardial-infarction-cardiac---primary.py
+inputModule27:
+  class: File
+  path: python/postoperative-myocardial-infarction---primary.py
+inputModule28:
+  class: File
+  path: python/transmural-myocardial-infarction---primary.py
+inputModule29:
+  class: File
+  path: python/myocardial-infarction-hypertension---primary.py
+inputModule30:
+  class: File
+  path: python/myocardial-infarction-attack---primary.py
+inputModule31:
+  class: File
+  path: python/infarct---primary.py
+inputModule32:
+  class: File
+  path: python/myocardial-infarction-thrombosis---primary.py
+inputModule33:
+  class: File
+  path: python/myocardial-infarction-post---primary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
